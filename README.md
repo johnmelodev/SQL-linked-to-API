@@ -1,18 +1,22 @@
-Verbos https estrutura
+Verbs and HTTPS Structure:
 
-GET - Obter dados existentes
-POST - Enviar dados
-PUT - Atualizar dados existentes
-DELETE - Excluir dados
+GET - Retrieve existing data
+POST - Send data
+PUT - Update existing data
+DELETE - Delete data
 
-status code:
+Status codes:
 
-1xx: Informação
-2xx: Sucesso
-3xx: Redirecionamento
-4xx: Erro no cliente
-5xx: Erro no Servidor
-
+1xx: Information
+2xx: Success
+3xx: Redirection
+4xx: Client Error
+5xx: Server Error
 
 Need to install:
 pip3 install requests
+
+
+In this module, I will present examples of API development structures and database creation structures using Flask, SQLite, and SQLAlchemy technologies. 
+
+Within the code, there are instructions explaining the role played by each line.
